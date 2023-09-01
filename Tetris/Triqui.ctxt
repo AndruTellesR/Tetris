@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Triqui
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Triqui\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Triqui()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Triqui\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=marca
+comment3.target=void\ setMarca(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ buscarGanador()
+comment5.params=index
+comment5.target=java.lang.String\ marcar(int)
+numComments=6
